@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "emin hesenov",
+      "age": "282",
+      "id": "5cbcaeeb-6407-4271-919b-e263f74051d7"
+    },
+    {
+      "id": "b171bb7d-209d-4917-9634-7a373796e674",
+      "name": "Emin",
+      "age": "30"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post"
+    }
+  ]
+}
